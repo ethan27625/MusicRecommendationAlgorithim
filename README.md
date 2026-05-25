@@ -12,16 +12,6 @@ A separate test dataset of 10 songs represents a hypothetical user's listening h
 
 Note: The dataset is not included in this repository and is listed in the .gitignore file.
 
-## Project StructureMusicRecommendationAlgorithm
-
-├── data/music_rec/          # Dataset files (gitignored)
-├── EDA.ipynb                # Exploratory Data Analysis
-├── cleaning.ipynb           # Data Cleaning and Preprocessing
-├── modeling.ipynb            # KMeans Clustering and Recommendations
-├── Report.ipynb             # Report answering 5 project questions
-├── README.md
-└── .gitignore
-
 ## Notebooks
 
 ### 1. EDA (EDA.ipynb)
