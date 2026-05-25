@@ -15,7 +15,7 @@ Note: The dataset is not included in this repository and is listed in the .gitig
 
 ## Project Structure
 
-MusicRecommendationAlgorithm/
+MusicRecommendationAlgorithm
 ├── data/music_rec/          # Dataset files (gitignored)
 ├── EDA.ipynb                # Exploratory Data Analysis
 ├── cleaning.ipynb           # Data Cleaning and Preprocessing
